@@ -45,7 +45,7 @@ I'm a 4th-year Software Engineering student at **ESPRIT** with a strong passion 
 | **Backend** | `Spring Boot`, `Node.js`, `Express.js`, `Symfony`, `Django`, `Flask` |
 | **Databases** | `MySQL`, `MongoDB`, `PostgreSQL`, `SQLite`, `Firebase` |
 | **AI/ML** | `TensorFlow`, `Keras`, `OpenCV`, `Scikit-learn` |
-| **DevOps & Tools** | `Docker`, `Git`, `Postman`, `Maven`, `VS Code`, `IntelliJ` |
+| **DevOps & Tools** | `Docker`, `Git`, `Postman`, `Maven`, `VS Code`, `IntelliJ` , `JenKins` , `Grafana` , `Prometheus`, `Kubernetes`, `Minikube` |
 | **Architectures** | `Microservices`, `REST APIs`, `MVC`, `AI Integration` |
 
 ---
