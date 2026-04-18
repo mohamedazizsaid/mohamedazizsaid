@@ -100,7 +100,7 @@ I'm a 4th-year Software Engineering student at **ESPRIT** with a strong passion 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedazizsaid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazizsaid&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=mohamedazizsaid&theme=radical&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://mohamedazizsaid.vercel.app/?username=mohamedazizsaid&theme=radical&no-frame=true&row=2&column=4)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedazizsaid&theme=react-dark&bg_color=20232a&hide_border=true&area=true&line=42a5f5&point=42a5f5&color=ffffff)
 
