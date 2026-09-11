@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV"/>
   </a>
   •
-  <a href="https://github.com/mohamedazizsaid">
+  <a href="https://portfolio-azizsaid.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
