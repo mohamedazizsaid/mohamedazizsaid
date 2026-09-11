@@ -355,42 +355,6 @@ A multi-service education platform combining mobile development, backend service
 **Stack:**  
 `Angular` · `Spring Boot` · `MySQL` · `Git` · `GitHub`
 
----
-
-## Sagemcom
-
-**Software Development Intern**  
-`01/2022 – 02/2022` · Ben Arous, Tunisia
-
-- Gained exposure to professional software development workflows and project lifecycles.
-- Worked within a collaborative environment following agile methodologies.
-- Developed a foundational understanding of engineering teamwork and project structure.
-
-**Stack:**  
-`Agile` · `Teamwork` · `Productivity`
-
----
-
-# Education
-
-### Private Higher School of Engineering and Technology — ESPRIT
-
-**Bachelor of Software Engineering**  
-`Expected graduation: 2027`
-
----
-
-### Higher Institute of Technological Studies of Charguia — ISET CH
-
-**Bachelor's Degree in Computer System Development**  
-`Graduated: 2024`
-
----
-
-### Taha Hussein High School
-
-**Baccalauréat — Mathematics**  
-`Graduated: 2021`
 
 ---
 
