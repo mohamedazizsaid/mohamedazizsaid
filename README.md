@@ -313,51 +313,6 @@ A multi-service education platform combining mobile development, backend service
 
 ---
 
-# Professional Experience
-
-## Bee Coders
-
-**Full-Stack Engineer — 9antra / The Bridge**  
-`06/2026 – 08/2026` · Lac I, Tunisia
-
-- Designed and developed a centralized platform for training programs, internships, and learner progression using Angular, Spring Boot, and MySQL.
-- Implemented secure RBAC, phase-gated workflows, payment validation, and real-time notifications.
-- Integrated automated certificate generation with blockchain anchoring for verifiable credentials.
-
-**Stack:**  
-`Angular` · `Spring Boot` · `MySQL` · `WebSocket` · `Blockchain` · `Stripe` · `CI/CD` · `Vercel` · `Render`
-
----
-
-## YottaByte
-
-**Full-Stack Intern — Advanced E-Learning Platform**  
-`01/2024 – 06/2024` · Charguia, Tunisia
-
-- Developed an AI-enhanced learning platform using Angular, Express.js, and MongoDB.
-- Integrated intelligent chatbots to improve user assistance and learning interaction.
-- Delivered a more advanced and responsive platform compared with existing local solutions.
-
-**Stack:**  
-`Angular` · `Express.js` · `MongoDB` · `Figma` · `Trello`
-
----
-
-## CERT
-
-**Full-Stack Intern — Advanced Intern Management Platform**  
-`01/2023 – 03/2023` · Technopole Elgazala, Tunisia
-
-- Designed and developed a complete platform for managing interns using Angular, Spring Boot, and MySQL.
-- Implemented task tracking, attendance, and performance management features.
-- Built a user-friendly dashboard with secure authentication.
-
-**Stack:**  
-`Angular` · `Spring Boot` · `MySQL` · `Git` · `GitHub`
-
-
----
-
 # GitHub Analytics
 
 <p align="center">
