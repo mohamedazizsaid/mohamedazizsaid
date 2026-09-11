@@ -1,160 +1,268 @@
-# 💫 Hello, I'm Mohamed Aziz Said
+# Mohamed Aziz Said
 
-<h3 align="center">💻 Passionate Software Engineer | 🚀 Full-Stack & AI Developer</h3>
+### Software Engineering Student · Full-Stack Developer · AI Enthusiast
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-aziz-said-841a3b226">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  •
-  <a href="mailto:azizsaid.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  •
-  <a href="https://drive.google.com/file/d/1im1IpFSciFRmoluKQKmhxAWMtm7ycq1G/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV"/>
-  </a>
-  •
   <a href="https://portfolio-azizsaid.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
+  <a href="https://www.linkedin.com/in/mohamed-aziz-said-841a3b226">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:azizsaid.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://drive.google.com/file/d/1im1IpFSciFRmoluKQKmhxAWMtm7ycq1G/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedazizsaid&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/mohamedazizsaid?label=Followers&style=flat-square" alt="GitHub Followers">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a 4th-year Software Engineering student at **ESPRIT** with a strong passion for creating innovative solutions that bridge the gap between complex problems and elegant software. My journey in tech is driven by curiosity and the relentless pursuit of excellence.
+I'm a **4th-year Software Engineering student at ESPRIT** focused on designing and building reliable, scalable, and intelligent software systems.
 
-**What motivates me:**
-- 🧠 Solving real-world problems through **AI and Machine Learning**
-- 💻 Building **scalable full-stack applications** with modern technologies
-- 🚀 Embracing challenges that push me out of my comfort zone
-- 🌱 Continuously learning and adapting to new technologies
+My main areas of interest are:
 
-**Currently seeking:** A 3-month internship in **Full-Stack or AI Development** where I can contribute to meaningful projects and grow alongside experienced professionals.
+- **Full-Stack Development** — modern web applications, REST APIs, authentication, and real-time features
+- **Artificial Intelligence** — machine learning, computer vision, recommendation systems, and AI-powered applications
+- **Software Architecture** — modular systems, microservices, and API-driven architectures
+- **DevOps & Cloud** — containerization, CI/CD, deployment, monitoring, and observability
 
----
+I enjoy transforming complex requirements into practical software products and contributing across the full engineering lifecycle, from architecture and implementation to deployment and monitoring.
 
-## 🛠️ Technical Arsenal
+### Open to
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | `Java`, `Python`, `JavaScript/TypeScript`, `C/C++`, `PHP`, `SQL`, `Dart` |
-| **Frontend** | `Angular`, `React`, `Vue.js`, `JavaFX`, `Bootstrap` |
-| **Backend** | `Spring Boot`, `Node.js`, `Express.js`, `Symfony`, `Django`, `Flask` |
-| **Databases** | `MySQL`, `MongoDB`, `PostgreSQL`, `SQLite`, `Firebase` |
-| **AI/ML** | `TensorFlow`, `Keras`, `OpenCV`, `Scikit-learn` |
-| **DevOps & Tools** | `Docker`, `Git`, `Postman`, `Maven`, `VS Code`, `IntelliJ` , `JenKins` , `Grafana` , `Prometheus`, `Kubernetes`, `Minikube` |
-| **Architectures** | `Microservices`, `REST APIs`, `MVC`, `AI Integration` |
+`Software Engineering` · `Full-Stack Development` · `AI Engineering` · `Internship Opportunities`
 
 ---
 
-## 🌟 Highlighted Projects
+## Tech Stack
 
-### 🤖 [AI-Powered Product Quality Detection](https://github.com/mohamedazizsaid/StopAlgic-Camera-Intelligent.git)
-> Computer vision system for industrial quality control
-- **Tech:** Python, OpenCV, TensorFlow, Keras
-- **Achievement:** Automated quality inspection, reducing manual verification time by 70%
-- **Impact:** Deployable solution for pharmaceutical manufacturing
-- **Status:** ✅ Completed
+### Languages
 
-### 🎓 [Intelligent E-Learning Platform](https://github.com/mohamedazizsaid/PIDEV.git)
-> AI-enhanced learning experience with smart chatbots
-- **Tech:** Angular, Node.js, MySQL, AI Integration
-- **Feature:** Real-time assistance and personalized learning paths
-- **Scale:** Serves 1000+ simulated users with responsive design
-- **Status:** ✅ Completed
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,php,c,dart" alt="Languages">
+</p>
 
-### 🎓 [Intelligent E-Learning Platform - JavaFx](https://github.com/mohamedazizsaid/PIdev.JAVAFX.git)
-> AI-enhanced learning experience with smart chatbots - Desktop Version
-- **Tech:** Java Fx, MySQL, AI Integration
-- **Feature:** Real-time assistance and personalized learning paths
-- **Platform:** Desktop application
-- **Status:** ✅ Completed
+### Frontend
 
-### ✈️ [Smart Travel Recommendation System](https://github.com/mohamedazizsaid/AI-Travel-Product-Recommender.git)
-> AI-driven travel planning and price analysis
-- **Tech:** Python, Deep Learning, Data Analysis
-- **Innovation:** Predictive destination suggestions and trend analysis
-- **User Experience:** Personalized travel itineraries
-- **Status:** ✅ Completed
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,html,css,tailwind,bootstrap" alt="Frontend">
+</p>
 
----
+### Backend
 
-## 💼 Professional Journey
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,django,flask,symfony" alt="Backend">
+</p>
 
-| Role | Company | Duration | Key Achievements |
-|------|---------|----------|------------------|
-| **Full-Stack Intern** | Royaltyre | 2023 | Built inventory platform serving daily business operations |
-| **Full-Stack Intern** | My EdTech | 2023 | Developed Web app with AI chatbot integration for enhanced learning |
-| **Full-Stack Intern** | CERT | 2022 | Created secure intern management system with Angular & Spring Boot |
-| **Software Dev Intern** | Sagemcom | 2022 | Gained industry exposure to agile methodologies and team workflows |
+### Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="Databases">
+</p>
 
-## 📈 GitHub Analytics
+### AI / Machine Learning
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and Machine Learning">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedazizsaid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazizsaid&layout=compact&theme=radical&hide_border=true&langs_count=8)
+`TensorFlow` · `Keras` · `Scikit-learn` · `Computer Vision` · `Deep Learning` · `AI Integration`
 
-![GitHub Trophies](https://github-profile-trophy-bd4r.vercel.app/?username=mohamedazizsaid&theme=radical&no-frame=true&row=2&column=4&cache=1)
+### DevOps & Engineering
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedazizsaid&theme=react-dark&bg_color=20232a&hide_border=true&area=true&line=42a5f5&point=42a5f5&color=ffffff)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,linux,prometheus,grafana" alt="DevOps and Engineering">
+</p>
 
-</div>
+`REST APIs` · `Microservices` · `CI/CD` · `Containerization` · `Observability`
 
 ---
 
-## 🐍 Contribution 
+# Featured Projects
+
+## 🌉 9antra — The Bridge
+
+### Full-Stack Learning Management Platform
+
+A production-oriented platform designed for vocational training centers, covering learning workflows, student management, authentication, payments, notifications, and monitoring.
+
+**Stack:**  
+`Angular` · `Spring Boot` · `MySQL` · `JWT` · `WebSocket` · `Docker` · `Prometheus` · `Grafana`
+
+**Focus:**  
+Full-Stack Architecture · Security · Real-Time Features · Observability · Deployment
+
+🔗 **[View Portfolio](https://portfolio-azizsaid.vercel.app)**
+
+---
+
+## ⚡ BuildWithUs
+
+### AI-Assisted Template Generation Platform
+
+A platform designed to accelerate the creation of reusable templates for **emails, invoices, SMS, and other business communication workflows**.
+
+**Stack:**  
+`Next.js` · `React` · `TypeScript` · `NestJS` · `Microservices` · `Python` · `AI`
+
+**Focus:**  
+AI-Assisted Generation · Microservices · Scalable Architecture
+
+🔗 **[View Portfolio](https://portfolio-azizsaid.vercel.app)**
+
+---
+
+## 🥗 NutriPal
+
+### AI-Assisted Nutrition Platform
+
+A nutrition tracking application combining structured data, rule-based recommendations, and AI-assisted guidance to provide a more personalized user experience.
+
+**Stack:**  
+`Angular` · `Spring Boot` · `MySQL` · `AI/ML`
+
+**Focus:**  
+AI Integration · Recommendation Logic · Full-Stack Development
+
+🔗 **[View Portfolio](https://portfolio-azizsaid.vercel.app)**
+
+---
+
+## 🤖 AI-Powered Product Quality Detection
+
+### Computer Vision for Industrial Quality Control
+
+A computer vision system designed to automate product inspection and reduce manual verification effort in industrial environments.
+
+**Stack:**  
+`Python` · `OpenCV` · `TensorFlow` · `Keras`
+
+**Focus:**  
+Computer Vision · Deep Learning · Image Processing · Industrial Automation
+
+🔗 **[GitHub Repository](https://github.com/mohamedazizsaid/StopAlgic-Camera-Intelligent)**
+
+---
+
+## 🎓 Smart E-Learning Platform
+
+### AI-Enhanced Learning Environment
+
+An intelligent learning platform combining web and desktop experiences with AI-assisted learning features and personalized course recommendations.
+
+**Stack:**  
+`Symfony` · `JavaFX` · `MySQL` · `AI/ML`
+
+**Focus:**  
+Adaptive Learning · AI Integration · Application Architecture
+
+🔗 **[GitHub Repository](https://github.com/mohamedazizsaid/PIDEV)**
+
+---
+
+# Professional Experience
+
+| Role | Company | Year |
+|---|---|---:|
+| **Full-Stack Developer Intern** | Royaltyre | 2023 |
+| **Full-Stack Developer Intern** | YottaByte | 2023 |
+| **Full-Stack Developer Intern** | CERT | 2022 |
+| **Software Development Intern** | Sagemcom | 2022 |
+
+My professional experience spans **business applications, learning platforms, AI integrations, and collaborative software engineering workflows**.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=mohamedazizsaid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazizsaid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# GitHub Contributions
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake-dark.svg">
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake.svg">
+
     <img
       src="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
+      alt="GitHub Contributions"
       width="100%">
   </picture>
 </p>
 
 ---
 
-## 🌍 Languages
+# GitHub Achievements
 
-- **Arabic**: 🇹🇳 Native
-- **French**: 🇫🇷 Fluent (Professional proficiency)
-- **English**: 🇺🇸 Fluent (Professional proficiency)
+<p align="center">
+  <img
+    src="https://github-profile-trophy-bd4r.vercel.app/?username=mohamedazizsaid&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+# 🌍 Languages
 
-I'm always open to discussing technology, collaboration opportunities, or potential internships. Let's create something amazing together!
+🇹🇳 **Arabic** — Native  
+🇫🇷 **French** — Fluent  
+🇬🇧 **English** — Fluent
 
-<div align="center">
+---
 
-📧 **Email**: [MohamedAziz.Said@esprit.tn](mailto:MohamedAziz.Said@esprit.tn)  
-💼 **LinkedIn**: [Mohamed Aziz Said](https://www.linkedin.com/in/mohamed-aziz-said-841a3b226)  
-💻 **GitHub**: [mohamedazizsaid](https://github.com/mohamedazizsaid)  
-📍 **Location**: Tunis, Tunisia
+# Let's Connect
 
-</div>
+Interested in **software engineering, full-stack development, AI, cloud technologies, DevOps, and challenging technical projects**.
+
+<p align="center">
+  <a href="mailto:azizsaid.it@gmail.com">📧 Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohamed-aziz-said-841a3b226">💼 LinkedIn</a>
+  ·
+  <a href="https://github.com/mohamedazizsaid">💻 GitHub</a>
+  ·
+  <a href="https://portfolio-azizsaid.vercel.app">🌐 Portfolio</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>⚡ "Code is poetry, and every problem is an opportunity to write a masterpiece."</i>
+  <i>Building scalable software. Exploring AI. Shipping real products.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedazizsaid&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohamedazizsaid?label=Followers&style=social" alt="GitHub Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=mohamedazizsaid&color=6C63FF&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
