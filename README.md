@@ -207,14 +207,12 @@ My professional experience spans **business applications, learning platforms, AI
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake-dark.svg">
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake.svg">
-
     <img
       src="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contributions"
+      alt="GitHub contributions"
       width="100%">
   </picture>
 </p>
