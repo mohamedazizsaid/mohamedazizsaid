@@ -12,7 +12,7 @@
   <a href="mailto:azizsaid.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://drive.google.com/file/d/1im1IpFSciFRmoluKQKmhxAWMtm7ycq1G/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/17gnZAxuVdQjfukVEDI6pN-hgkLtiwasU/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
   </a>
 </p>
