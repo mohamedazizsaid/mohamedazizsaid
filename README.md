@@ -268,6 +268,9 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+**🕐 Total Coding Time**: 0 mins
+
+
 <!--END_SECTION:waka-->
 
 ---
