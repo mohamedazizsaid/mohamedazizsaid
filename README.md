@@ -260,6 +260,9 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
   </picture>
 </p>
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ---
 
 # GitHub Achievements
