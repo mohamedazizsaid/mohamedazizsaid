@@ -263,7 +263,9 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
 </p>
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/metrics.svg" alt="Metrics">
+</p>
 
 ---
 
