@@ -227,6 +227,9 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+**🕐 Total Coding Time**: 0 mins
+
+
 <!--END_SECTION:waka-->
 
 ---
