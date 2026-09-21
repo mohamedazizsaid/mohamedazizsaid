@@ -1,0 +1,23 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Tous les jours à 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update WakaTime Stats
+        uses: AptS-1547/wakatime-readme-updater@v1
+        with:
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          stats_range: "7"
+          commit_message: "📊 Updated WakaTime stats"

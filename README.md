@@ -265,6 +265,14 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
 
 ---
 
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+
 # GitHub Achievements
 
 <p align="center">
