@@ -59,14 +59,13 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
 
 ## Backend & APIs
 
-## Backend & APIs
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,django,flask,symfony,dotnet" alt="Backend Technologies">
   <br/>
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud">
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
+
 ---
 
 ## AI & Machine Learning
@@ -87,6 +86,8 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
   <img src="https://img.shields.io/badge/Semantic%20Data%20Mapping-6C63FF?style=for-the-badge&logo=graphql&logoColor=white" alt="Semantic Data Mapping">
   <img src="https://img.shields.io/badge/AI--Assisted%20Development-22d3ee?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI-Assisted Development">
 </p>
+
+
 ---
 
 ## Databases
@@ -112,6 +113,7 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render">
 </p>
+
 ---
 
 ## Testing & Engineering Tools
@@ -143,6 +145,8 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
 </p>
+
+
 ---
 
 ## 🌟 Featured Projects
