@@ -183,7 +183,16 @@ I enjoy taking complex requirements from **architecture to implementation, deplo
   />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/mohamedazizsaid">
+    <img src="https://streak-stats.demolab.com?user=mohamedazizsaid&theme=tokyonight&hide_border=true&background=0b1220&ring=22d3ee&fire=ff7657&currStreakLabel=e7edf5&sideLabels=93a4b8&dates=93a4b8" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
+
+
 
 # GitHub Contributions
 
