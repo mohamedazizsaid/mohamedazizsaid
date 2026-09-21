@@ -20,8 +20,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedazizsaid&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/mohamedazizsaid?label=Followers&style=flat-square" alt="GitHub Followers">  
-  </br>
-  ![CI](https://github.com/mohamedazizsaid/mohamedazizsaid/actions/workflows/main.yml/badge.svg)
+  <br/>
+  <img src="https://github.com/mohamedazizsaid/mohamedazizsaid/actions/workflows/main.yml/badge.svg" alt="CI">
 </p>
 
 ---
