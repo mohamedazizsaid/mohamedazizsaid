@@ -214,6 +214,7 @@ I enjoy taking complex requirements from **architecture to implementation, deplo
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+**🕐 Total Coding Time**: 0 mins
 
 
 <!--END_SECTION:waka-->
