@@ -1,6 +1,7 @@
 name: Update WakaTime Stats
 
 on:
+  push:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -22,5 +23,5 @@ jobs:
           wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
           gh_token: ${{ secrets.GH_TOKEN }}        
           repository: ${{ github.repository }}
-          stats_range: "1"
+          stats_range: "7"
           commit_message: "📊 Updated WakaTime stats"
