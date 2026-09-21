@@ -265,6 +265,13 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
 
 ---
 
+
+## 📊 Workflow & Metrics
+
+![CI](https://github.com/mohamedazizsaid/mohamedazizsaid/actions/workflows/main.yml/badge.svg)
+
+---
+
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
