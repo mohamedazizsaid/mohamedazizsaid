@@ -28,24 +28,11 @@
 
 ## About
 
-I'm a **final-year Software Engineering student at ESPRIT** focused on designing and building production-ready software across the full stack.
+Final-year Software Engineering student at **ESPRIT**, building production-ready software across the full stack.
 
-My work combines:
+I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, and **DevOps & Cloud** — taking projects from architecture to deployment.
 
-- **Full-Stack Engineering** — modern web applications, REST APIs, authentication, real-time systems, and business workflows
-- **Artificial Intelligence** — AI/ML integration, computer vision, recommendation systems, and intelligent assistants
-- **Software Architecture** — microservices, clean architecture, design patterns, and API-driven systems
-- **DevOps & Cloud** — CI/CD, containerization, deployment, observability, and cloud infrastructure
-
-I enjoy taking complex requirements from **architecture to implementation, deployment, and monitoring**, with a focus on reliability, scalability, security, and user experience.
-
-### Core Focus
-
-`Full-Stack Engineering` · `AI Integration` · `Microservices` · `DevOps & Cloud`
-
-### Open to
-
-**Software Engineering · Full-Stack Development · AI Engineering · Technical Internship Opportunities**
+**Open to:** Software Engineering · Full-Stack · AI Engineering · Internships
 
 ---
 
