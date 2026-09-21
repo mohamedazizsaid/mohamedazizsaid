@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/github/followers/mohamedazizsaid?label=Followers&style=flat-square" alt="GitHub Followers">  
   <br/>
   <img src="https://github.com/mohamedazizsaid/mohamedazizsaid/actions/workflows/main.yml/badge.svg" alt="CI">
+  <a href="https://wakatime.com/@71086d8f-0fd3-4aaf-b33e-5b3ab6864167"><img src="https://wakatime.com/badge/user/71086d8f-0fd3-4aaf-b33e-5b3ab6864167.svg" alt="Total time coded since Sep 21 2026" /></a>
 </p>
 
 ---
@@ -223,18 +224,6 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
   <img src="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/metrics.svg" alt="Metrics">
 </p>
 
-
-
-
-<!-- Section WakaTime désactivée temporairement
----
-## ⏱️ Coding Activity
-
-<!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 0 mins
-
-
-<!--END_SECTION:waka-->
 
 ---
 
