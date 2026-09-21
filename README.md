@@ -129,103 +129,43 @@ I enjoy taking complex requirements from **architecture to implementation, deplo
 
 ---
 
-# Featured Projects
+## 🌟 Featured Projects
 
-## 🌉 9antra — The Bridge
+### 🌉 9antra — The Bridge
 
-### Full-Stack LMS for Vocational Training Centers
+| | |
+|---|---|
+| **Type** | Full-Stack LMS for Vocational Training Centers |
+| **Description** | Centralized learning & internship platform unifying enrollment, payment validation, pedagogical progression, notifications, and credential issuance. |
+| **Stack** | `Angular` · `Spring Boot` · `MySQL` · `JWT` · `Spring Security` · `WebSocket` · `Blockchain` · `Stripe` · `CI/CD` · `Vercel` · `Render` |
+| **Highlights** | • Phase-gated progression (pedagogical + payment validation)<br>• RBAC via JWT & Spring Security<br>• Real-time notifications (WebSocket / STOMP / SockJS)<br>• Auto certificate generation anchored on Polygon L2<br>• Full CI/CD pipeline on Vercel & Render |
+| **Focus** | `Full-Stack Architecture` · `Security` · `Real-Time Systems` · `Blockchain` · `DevOps` |
+| **Links** | [🌐 Live](https://9antra-the-bridge-frontend-pdjd-silk.vercel.app) · [📁 Case Study](https://portfolio-azizsaid.vercel.app) |
 
-A centralized learning and internship platform designed for vocational training centers, connecting enrollment, payment validation, pedagogical progression, notifications, and credential issuance in one system.
+### 🧬 DeepSkyn
 
-**Architecture & Stack**
+| | |
+|---|---|
+| **Type** | AI-Powered Skin Analysis Platform |
+| **Description** | AI-driven skin analysis ecosystem combining a modern web interface, ML services, accessibility tech, billing, and a companion mobile app. |
+| **Stack** | `React` · `Vite` · `NestJS` · `PostgreSQL` · `Keycloak` · `Python` · `React Native` · `Stripe` · `n8n` · `Three.js` |
+| **Highlights** | • Python ML services for skin analysis<br>• Keycloak auth + PostgreSQL persistence<br>• Accessibility suite (LSF avatar, eye tracking, voice commands)<br>• Multi-provider LLM fallback (Gemini, Groq, OpenRouter)<br>• Stripe billing & automated n8n workflows<br>• React Native / Expo companion app<br>• CI/CD across Vercel, Render, Supabase, Azure |
+| **Focus** | `AI/ML` · `Accessibility` · `Distributed Architecture` · `Mobile` · `Cloud` |
+| **Links** | [🌐 Live](https://deep-skyn-front-end-by-dev-masters.vercel.app) · [📁 Case Study](https://portfolio-azizsaid.vercel.app)<br>[💻 Frontend](https://github.com/mohamedazizsaid/DeepSkynFrontEnd_ByDev-Masters) · [🖥 Backend](https://github.com/MohamedSalimLabbaoui/DeepSkynBackEnd_ByDev-Masters) · [📱 Mobile](https://github.com/mohamedazizsaid/DeepSkynMobile_ByDev-Masters) |
 
-`Angular` · `Spring Boot` · `MySQL` · `JWT` · `Spring Security`  
-`WebSocket` · `Blockchain` · `Stripe` · `CI/CD` · `Vercel` · `Render`
+### ⚡ BuildWithUs
 
-**Engineering Highlights**
-
-- Phase-gated learner progression combining pedagogical validation and payment confirmation
-- Role-based access control with JWT and Spring Security
-- Real-time notifications using WebSocket / STOMP / SockJS
-- Automatic certificate generation with blockchain anchoring on Polygon L2
-- Full deployment pipeline across Vercel and Render
-
-**Focus**
-
-`Full-Stack Architecture` · `Security` · `Real-Time Systems` · `Blockchain` · `DevOps`
-
-🔗 **[Live Platform](https://9antra-the-bridge-frontend-pdjd-silk.vercel.app)**  
-🔗 **[Portfolio Case Study](https://portfolio-azizsaid.vercel.app)**
-
+| | |
+|---|---|
+| **Type** | AI-Powered Business Template Automation Platform |
+| **Description** | Multi-tenant SaaS to design, generate, personalize, and manage communication templates across multiple channels. |
+| **Stack** | `Next.js 16` · `React 19` · `TypeScript` · `TailwindCSS` · `NestJS 11` · `Python` · `FastAPI` · `PostgreSQL` · `Stripe` |
+| **Highlights** | • Visual template builder with AI-assisted generation<br>• NestJS microservices + API Gateway<br>• Python processing pipeline & semantic data mapping<br>• Multi-tenant PostgreSQL with RBAC<br>• DDD & CQRS patterns<br>• Email, PDF, SMS, WhatsApp, RCS workflows<br>• Stripe subscriptions & billing<br>• Docker + GitHub Actions deployment |
+| **Focus** | `Microservices` · `AI` · `SaaS Architecture` · `Multi-Tenancy` · `DDD` · `CQRS` |
+| **Links** | [🌐 Live](https://build-with-us-xi.vercel.app) · [💻 Repo](https://github.com/mohamedazizsaid/BuildWithUS) · [📁 Case Study](https://portfolio-azizsaid.vercel.app) |
 ---
 
-## 🧬 DeepSkyn
 
-### AI-Powered Skin Analysis Platform
-
-An AI-powered skin analysis ecosystem combining a modern web interface, machine-learning services, accessibility technologies, automated billing, and a companion mobile application.
-
-**Architecture & Stack**
-
-`React` · `Vite` · `NestJS` · `PostgreSQL` · `Keycloak`  
-`Python` · `React Native` · `Stripe` · `n8n` · `Three.js`
-
-**Engineering Highlights**
-
-- Python ML services for AI-powered skin analysis
-- Keycloak-based authentication and PostgreSQL persistence
-- Accessibility suite including LSF sign-language avatar, eye tracking, and voice commands
-- Multi-provider LLM fallback using Gemini, Groq, and OpenRouter
-- Stripe billing and automated workflows
-- React Native / Expo companion application
-- CI/CD across Vercel, Render, Supabase, and Azure
-
-**Focus**
-
-`AI/ML` · `Accessibility` · `Distributed Architecture` · `Mobile` · `Cloud`
-
-🔗 **[Live Platform](https://deep-skyn-front-end-by-dev-masters.vercel.app)**  
-🔗 **[Portfolio Case Study](https://portfolio-azizsaid.vercel.app)**  
-🔗 **[Frontend](https://github.com/mohamedazizsaid/DeepSkynFrontEnd_ByDev-Masters)**  
-🔗 **[Backend](https://github.com/MohamedSalimLabbaoui/DeepSkynBackEnd_ByDev-Masters)**  
-🔗 **[Mobile](https://github.com/mohamedazizsaid/DeepSkynMobile_ByDev-Masters)**
-
----
-
-## ⚡ BuildWithUs
-
-### AI-Powered Business Template Automation Platform
-
-A multi-tenant SaaS platform for designing, generating, personalizing, and managing templates across multiple communication channels.
-
-**Architecture & Stack**
-
-`Next.js 16` · `React 19` · `TypeScript` · `TailwindCSS`  
-`NestJS 11` · `Python` · `FastAPI` · `PostgreSQL` · `Stripe`
-
-**Engineering Highlights**
-
-- Visual template builder with AI-assisted generation
-- NestJS microservices architecture with API Gateway
-- Python processing pipeline
-- Semantic data mapping
-- Multi-tenant PostgreSQL architecture with RBAC
-- DDD and CQRS patterns
-- Email, PDF, SMS, WhatsApp, and RCS workflows
-- Stripe subscriptions and billing
-- Docker + GitHub Actions deployment
-
-**Focus**
-
-`Microservices` · `AI` · `SaaS Architecture` · `Multi-Tenancy` · `DDD` · `CQRS`
-
-🔗 **[Live Platform](https://build-with-us-xi.vercel.app)**  
-🔗 **[Repository](https://github.com/mohamedazizsaid/BuildWithUS)**  
-🔗 **[Portfolio Case Study](https://portfolio-azizsaid.vercel.app)**
-
----
-
----
 
 # GitHub Analytics
 
@@ -274,7 +214,6 @@ A multi-tenant SaaS platform for designing, generating, personalizing, and manag
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-**🕐 Total Coding Time**: 0 mins
 
 
 <!--END_SECTION:waka-->
