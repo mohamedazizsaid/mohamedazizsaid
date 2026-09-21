@@ -219,15 +219,15 @@ I focus on **Full-Stack Engineering**, **AI Integration**, **Microservices**, an
   <img src="https://raw.githubusercontent.com/mohamedazizsaid/mohamedazizsaid/output/metrics.svg" alt="Metrics">
 </p>
 
----
+
 
 
 <!-- Section WakaTime désactivée temporairement
+---
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
--->
 
 ---
 
